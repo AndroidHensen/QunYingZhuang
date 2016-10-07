@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.handsome.qunyingzhuang.chapter_3.ToolBar.ToolBar xmlns:custom="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        custom:leftBackground="#0000ff"
+        custom:leftText="back"
+        custom:leftTextColor="#00ff00"
+        custom:rightBackground="#333333"
+        custom:rightText="more"
+        custom:rightTextColor="#ff0000"
+        custom:title="我的标题"
+        custom:titleTextColor="#ff0000"
+        custom:titleTextSize="14sp" />
+</RelativeLayout>
