@@ -31,6 +31,7 @@ public class DongTaiListViewAdapter extends BaseAdapter {
         this.mContext = context;
     }
 
+
     @Override
     public int getCount() {
         return list.size();
