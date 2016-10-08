@@ -36,7 +36,6 @@ public class CustomScrollView extends ViewGroup {
     @Override
     protected void onLayout(boolean b, int i, int i1, int i2, int i3) {
         int childCount = getChildCount();
-        Log.e("count", childCount + "");
         MarginLayoutParams mlp = (MarginLayoutParams) getLayoutParams();
         mlp.height = mScreenHeight * childCount;
         setLayoutParams(mlp);

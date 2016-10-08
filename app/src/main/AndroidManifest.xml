@@ -12,9 +12,15 @@
         <activity android:name=".chapter_3.CustomTextView.CustomTextViewActivity" />
         <activity android:name=".chapter_3.FlashTextView.FlashTextViewActivity" />
         <activity android:name=".chapter_3.ToolBar.ToolBarActivity" />
-        <activity android:name=".chapter_3.CircleView.CirCleProgressActivity"></activity>
-        <activity android:name=".chapter_3.MusicView.MusicViewActivity"></activity>
-        <activity android:name=".chapter_3.CustomScrollView.CustomScrollViewActivity">
+        <activity android:name=".chapter_3.CircleView.CirCleProgressActivity" />
+        <activity android:name=".chapter_3.MusicView.MusicViewActivity" />
+        <activity android:name=".chapter_3.CustomScrollView.CustomScrollViewActivity" />
+        <activity android:name=".chapter_4.TanXingListView.TanXingListViewActivity" />
+        <activity
+            android:name=".chapter_4.ShowAndHideListView.ShowAndHideListViewActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity android:name=".chapter_4.ChatListView.ChatListViewActivity"></activity>
+        <activity android:name=".chapter_4.DongTaiListView.DongTaiListViewActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
