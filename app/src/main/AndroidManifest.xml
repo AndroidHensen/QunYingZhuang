@@ -19,8 +19,9 @@
         <activity
             android:name=".chapter_4.ShowAndHideListView.ShowAndHideListViewActivity"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-        <activity android:name=".chapter_4.ChatListView.ChatListViewActivity"></activity>
-        <activity android:name=".chapter_4.DongTaiListView.DongTaiListViewActivity">
+        <activity android:name=".chapter_4.ChatListView.ChatListViewActivity" />
+        <activity android:name=".chapter_4.DongTaiListView.DongTaiListViewActivity"></activity>
+        <activity android:name=".chapter_5.DragViewTextActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
