@@ -9,19 +9,28 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".MainActivity" />
-        <activity android:name=".chapter_3.CustomTextView.CustomTextViewActivity" />
-        <activity android:name=".chapter_3.FlashTextView.FlashTextViewActivity" />
-        <activity android:name=".chapter_3.ToolBar.ToolBarActivity" />
-        <activity android:name=".chapter_3.CircleView.CirCleProgressActivity" />
-        <activity android:name=".chapter_3.MusicView.MusicViewActivity" />
-        <activity android:name=".chapter_3.CustomScrollView.CustomScrollViewActivity" />
-        <activity android:name=".chapter_4.TanXingListView.TanXingListViewActivity" />
+        <activity android:name=".chapter_3.Anli01.CustomTextViewActivity" />
+        <activity android:name=".chapter_3.Anli02.FlashTextViewActivity" />
+        <activity android:name=".chapter_3.Anli03.ToolBarActivity" />
+        <activity android:name=".chapter_3.Anli04.CirCleProgressActivity" />
+        <activity android:name=".chapter_3.Anli05.MusicViewActivity" />
+        <activity android:name=".chapter_3.Anli06.CustomScrollViewActivity" />
+        <activity android:name=".chapter_4.Anli01.TanXingListViewActivity" />
         <activity
-            android:name=".chapter_4.ShowAndHideListView.ShowAndHideListViewActivity"
+            android:name=".chapter_4.Anli02.ShowAndHideListViewActivity"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-        <activity android:name=".chapter_4.ChatListView.ChatListViewActivity" />
-        <activity android:name=".chapter_4.DongTaiListView.DongTaiListViewActivity"></activity>
-        <activity android:name=".chapter_5.DragViewTextActivity">
+        <activity android:name=".chapter_4.Anli03.ChatListViewActivity" />
+        <activity android:name=".chapter_4.Anli04.DongTaiListViewActivity" />
+        <activity android:name=".chapter_5.DragViewTextActivity" />
+        <activity android:name=".chapter_6.Anli01.ClockActivity" />
+        <activity android:name=".chapter_6.Anli02.PrimaryColor" />
+        <activity android:name=".chapter_6.Anli03.ColorMatrix" />
+        <activity android:name=".chapter_6.Anli04.PixelsEffect" />
+        <activity android:name=".chapter_6.Anli05.FlagBitmapMeshActivity" />
+        <activity android:name=".chapter_6.RoundXfermode.RoundRectXfermodeActivity"></activity>
+        <activity android:name=".chapter_6.Anli06.GuaguaKaActivity">
+        </activity>
+        <activity android:name=".chapter_6.Anli07.ReflectActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

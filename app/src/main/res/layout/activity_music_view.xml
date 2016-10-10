@@ -3,9 +3,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".chapter_3.MusicView.MusicViewActivity">
+    tools:context=".chapter_3.Anli05.MusicViewActivity">
 
-    <com.handsome.qunyingzhuang.chapter_3.MusicView.MusicView
+    <com.handsome.qunyingzhuang.chapter_3.Anli05.MusicView
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 </RelativeLayout>

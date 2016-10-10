@@ -3,9 +3,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.handsome.qunyingzhuang.chapter_3.CircleView.CirCleProgressActivity">
+    tools:context="com.handsome.qunyingzhuang.chapter_3.Anli04.CirCleProgressActivity">
 
-    <com.handsome.qunyingzhuang.chapter_3.CircleView.CircleProgressView
+    <com.handsome.qunyingzhuang.chapter_3.Anli04.CircleProgressView
         android:id="@+id/circle"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />

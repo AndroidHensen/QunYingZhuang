@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <com.handsome.qunyingzhuang.chapter_5.DragViewGroup
+    <com.handsome.qunyingzhuang.chapter_5.Anli06.DragViewGroup
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
@@ -28,5 +28,5 @@
                 android:layout_height="wrap_content"
                 android:text="Main" />
         </FrameLayout>
-    </com.handsome.qunyingzhuang.chapter_5.DragViewGroup>
+    </com.handsome.qunyingzhuang.chapter_5.Anli06.DragViewGroup>
 </RelativeLayout>

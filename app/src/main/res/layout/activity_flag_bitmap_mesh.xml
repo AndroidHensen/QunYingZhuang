@@ -3,9 +3,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.handsome.qunyingzhuang.chapter_4.Anli03.ChatListViewActivity">
-    <ListView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:id="@+id/lv_chat"></ListView>
+    tools:context="com.handsome.qunyingzhuang.chapter_6.Anli05.FlagBitmapMeshActivity">
+
+    <com.handsome.qunyingzhuang.chapter_6.Anli05.FlagBitmapMeshView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
 </RelativeLayout>
