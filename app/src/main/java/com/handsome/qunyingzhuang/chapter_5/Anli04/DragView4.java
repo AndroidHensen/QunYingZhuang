@@ -26,6 +26,7 @@ public class DragView4 extends View {
         ininView();
     }
 
+
     private void ininView() {
         setBackgroundColor(Color.BLUE);
     }
