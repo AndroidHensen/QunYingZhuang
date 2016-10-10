@@ -27,16 +27,17 @@
         <activity android:name=".chapter_6.Anli03.ColorMatrix" />
         <activity android:name=".chapter_6.Anli04.PixelsEffect" />
         <activity android:name=".chapter_6.Anli05.FlagBitmapMeshActivity" />
-        <activity android:name=".chapter_6.RoundXfermode.RoundRectXfermodeActivity"></activity>
-        <activity android:name=".chapter_6.Anli06.GuaguaKaActivity">
-        </activity>
-        <activity android:name=".chapter_6.Anli07.ReflectActivity">
+        <activity android:name=".chapter_6.RoundXfermode.RoundRectXfermodeActivity" />
+        <activity android:name=".chapter_6.Anli06.GuaguaKaActivity" />
+        <activity android:name=".chapter_6.Anli07.ReflectActivity"></activity>
+        <activity android:name=".chapter_6.Anli08.SinActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".chapter_6.Anli09.SimpleDrawActivity"></activity>
     </application>
 
 </manifest>
