@@ -9,4 +9,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.handsome.qunyingzhuang.chapter_6.Anli09.SimpleDrawActivity">
 
+    <com.handsome.qunyingzhuang.chapter_6.Anli09.SimpleDraw
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
 </RelativeLayout>

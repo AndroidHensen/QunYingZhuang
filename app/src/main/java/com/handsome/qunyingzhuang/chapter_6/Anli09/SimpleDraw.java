@@ -45,7 +45,7 @@ public class SimpleDraw extends SurfaceView
         mPaint = new Paint();
         mPaint.setColor(Color.RED);
         mPaint.setStyle(Paint.Style.STROKE);
-        mPaint.setStrokeWidth(40);
+        mPaint.setStrokeWidth(20);
     }
 
     @Override
