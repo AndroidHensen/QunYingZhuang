@@ -29,9 +29,19 @@
         <activity android:name=".chapter_6.Anli05.FlagBitmapMeshActivity" />
         <activity android:name=".chapter_6.RoundXfermode.RoundRectXfermodeActivity" />
         <activity android:name=".chapter_6.Anli06.GuaguaKaActivity" />
-        <activity android:name=".chapter_6.Anli07.ReflectActivity"></activity>
-        <activity android:name=".chapter_6.Anli08.SinActivity"></activity>
-        <activity android:name=".chapter_6.Anli09.SimpleDrawActivity">
+        <activity android:name=".chapter_6.Anli07.ReflectActivity" />
+        <activity android:name=".chapter_6.Anli08.SinActivity" />
+        <activity android:name=".chapter_6.Anli09.SimpleDrawActivity" />
+        <activity android:name=".chapter_7.SVGText01Activity" />
+        <activity android:name=".chapter_7.Anli01.TrickActivity" />
+        <activity android:name=".chapter_7.Anli02.SunActivity" />
+        <activity android:name=".chapter_7.Anli03.SearchActivity">
+        </activity>
+        <activity android:name=".chapter_7.Anli04.PropertyTest">
+        </activity>
+        <activity android:name=".chapter_7.Anli05.TimerTest">
+        </activity>
+        <activity android:name=".chapter_7.Anli06.DropTest">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
