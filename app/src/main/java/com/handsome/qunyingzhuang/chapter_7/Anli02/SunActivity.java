@@ -20,6 +20,5 @@ public class SunActivity extends AppCompatActivity {
         if (drawable instanceof Animatable) {
             ((Animatable) drawable).start();
         }
-
     }
 }
