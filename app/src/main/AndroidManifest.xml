@@ -35,13 +35,12 @@
         <activity android:name=".chapter_7.SVGText01Activity" />
         <activity android:name=".chapter_7.Anli01.TrickActivity" />
         <activity android:name=".chapter_7.Anli02.SunActivity" />
-        <activity android:name=".chapter_7.Anli03.SearchActivity">
-        </activity>
-        <activity android:name=".chapter_7.Anli04.PropertyTest">
-        </activity>
-        <activity android:name=".chapter_7.Anli05.TimerTest">
-        </activity>
-        <activity android:name=".chapter_7.Anli06.DropTest">
+        <activity android:name=".chapter_7.Anli03.SearchActivity"></activity>
+        <activity android:name=".chapter_7.Anli04.PropertyTest"></activity>
+        <activity android:name=".chapter_7.Anli05.TimerTest"></activity>
+        <activity android:name=".chapter_7.Anli06.DropTest"></activity>
+        <activity android:name=".chapter_9.AM.AMProcessTest"></activity>
+        <activity android:name=".chapter_9.PM.PMTest">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
