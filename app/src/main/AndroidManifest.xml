@@ -35,12 +35,27 @@
         <activity android:name=".chapter_7.SVGText01Activity" />
         <activity android:name=".chapter_7.Anli01.TrickActivity" />
         <activity android:name=".chapter_7.Anli02.SunActivity" />
-        <activity android:name=".chapter_7.Anli03.SearchActivity"></activity>
-        <activity android:name=".chapter_7.Anli04.PropertyTest"></activity>
-        <activity android:name=".chapter_7.Anli05.TimerTest"></activity>
-        <activity android:name=".chapter_7.Anli06.DropTest"></activity>
-        <activity android:name=".chapter_9.AM.AMProcessTest"></activity>
-        <activity android:name=".chapter_9.PM.PMTest">
+        <activity android:name=".chapter_7.Anli03.SearchActivity" />
+        <activity android:name=".chapter_7.Anli04.PropertyTest" />
+        <activity android:name=".chapter_7.Anli05.TimerTest" />
+        <activity android:name=".chapter_7.Anli06.DropTest" />
+        <activity android:name=".chapter_9.AM.AMProcessTest" />
+        <activity android:name=".chapter_9.PM.PMTest" />
+        <activity android:name=".chapter_12.Palette.PaletteActivity" />
+        <activity android:name=".chapter_12.Tinting.Tinting" />
+        <activity android:name=".chapter_12.Clipping.Clipping" />
+        <activity android:name=".chapter_12.Anli01.TransitionsB" />
+        <activity android:name=".chapter_12.Anli01.TransitionsA" />
+        <activity android:name=".chapter_12.Ripple.Ripple" />
+        <activity android:name=".chapter_12.Ripple.Ripple02" />
+        <activity android:name=".chapter_12.CircularReveal.CircularReveal" />
+        <activity android:name=".chapter_12.animated_selector.AnimatedSelectorActivity" />
+        <activity
+            android:name=".chapter_12.Anli02.ToolbarActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity android:name=".chapter_12.Anli03.Notification01" />
+        <activity android:name=".chapter_12.Anli04.Notification02"></activity>
+        <activity android:name=".chapter_12.Anli05.Notification03">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

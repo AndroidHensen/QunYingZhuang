@@ -1,11 +1,16 @@
 <resources>
 
-    <!-- Base application theme. -->
-    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
-        <!-- Customize your theme here. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- toolbar颜色-->
         <item name="colorPrimary">@color/colorPrimary</item>
+        <!-- 状态栏颜色-->
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
-        <item name="colorAccent">@color/colorAccent</item>
+        <!-- 窗口的背景颜色-->
+        <item name="android:windowBackground">@android:color/white</item>
+        <!-- add SearchView-->
+        <item name="android:searchViewStyle">@style/MySearchView</item>
     </style>
+
+    <style name="MySearchView" parent="Widget.AppCompat.SearchView" />
 
 </resources>
