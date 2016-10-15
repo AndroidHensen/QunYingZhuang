@@ -50,5 +50,6 @@ public class ToolbarActivity extends AppCompatActivity {
         intent.setType("text/*");
         mShareActionProvider.setShareIntent(intent);
         return super.onCreateOptionsMenu(menu);
+
     }
 }
