@@ -1,10 +1,10 @@
 # QunYingZhuang
 Android群英传知识点回顾
 
-##使用说明
+## 使用说明
 在Manifest文件中，将需要启动的案例配置成启动页面即可
 
-##CSDN博客传送门
+## CSDN博客传送门
 >* [Android群英传知识点回顾——第一章：Android体系与系统架构](http://blog.csdn.net/qq_30379689/article/details/52737661)
 >* [Android群英传知识点回顾——第二章：Android开发工具新接触](http://blog.csdn.net/qq_30379689/article/details/52741361)
 >* [Android群英传知识点回顾——第三章：Android控件架构与自定义控件详解](http://blog.csdn.net/qq_30379689/article/details/52744743)
